@@ -1,0 +1,4 @@
+future~=1.0.0
+tkinter
+json
+webbrowser

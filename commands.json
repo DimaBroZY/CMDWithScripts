@@ -1,0 +1,7 @@
+[
+    {
+        "command": "yt",
+        "description": "открывает ютуб",
+        "script_path": "scripts/yt.py"
+    }
+]
